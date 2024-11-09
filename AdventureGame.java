@@ -4,7 +4,6 @@ public class AdventureGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Boolean variables to track user choices
         boolean enteredCave = false;
         boolean usedSword = false;
         boolean foundRiver = false;
